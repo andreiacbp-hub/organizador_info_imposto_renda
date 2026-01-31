@@ -10,9 +10,12 @@ O projeto consiste na criação de uma planilha de controle de dados para facili
 * Microsoft Excel 
 
 ## 📸 Capturas de Tela
-Abaixo estão exemplos do funcionamento da planilha:
+Abaixo estão prints da planilha:
 
 ![Menu Interativo](images/Menu_interativo.jpg)
+![Dados Pessoais](images/Dados_titular.jpg)
+![Informe Bancário](images/informe_bancario.jpg)
+![Notas e holerites](images/Notas_e_receitas.jpg)
 
 ## Autor
 [Andreia Pontes]
